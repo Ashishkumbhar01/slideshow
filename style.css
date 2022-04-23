@@ -25,7 +25,7 @@ body{
     background-image: url("images/beach.jpg")
   }
   50%{
-    background-image: url("images/tree.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2017/12/15/13/51/polynesia-3021072_640.jpg");
   }
   75%{
     background-image: url("images/hills.jpg");
